@@ -35,7 +35,7 @@ const Hero = () => {
 
         <div className="flex flex-wrap justify-center gap-4 relative z-10">
           <a
-            href="/Portafolio/Tigrero_MARCELO_esp.pdf"
+            href="/Tigrero_MARCELO_esp.pdf"
             download="Tigrero_MARCELO_CV.pdf"
             className="flex items-center gap-2 bg-gradient-to-r from-blue-500 to-emerald-500 hover:from-blue-600 hover:to-emerald-600 text-white px-8 py-3 rounded-full font-semibold transition-all duration-300 shadow-[0_0_20px_rgba(59,130,246,0.5)] hover:shadow-[0_0_30px_rgba(59,130,246,0.8)] hover:-translate-y-1"
           >
