@@ -1,11 +1,11 @@
 import React from 'react';
 import { Github, Linkedin, Mail, Download, ChevronDown } from 'lucide-react';
-import Hero from './components/Hero';
-import Projects from './components/Projects';
-import Experience from './components/Experience';
-import Education from './components/Education';
-import Contact from './components/Contact';
-import Certifications from './components/Certifications';
+import Hero from './components/sections/Hero';
+import Projects from './components/sections/Projects';
+import Experience from './components/sections/Experience';
+import Education from './components/sections/Education';
+import Contact from './components/sections/Contact';
+import Certifications from './components/sections/Certifications';
 
 function App() {
   return (

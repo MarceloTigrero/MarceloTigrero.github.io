@@ -3,6 +3,30 @@ import { Award, ChevronDown, ChevronUp } from 'lucide-react';
 
 const allCertifications = [
   {
+    id: 101,
+    name: "Gestión Aduanera y Operaciones Logísticas",
+    issuer: "Educación Continua ESPOL / Capacitación 2025",
+    date: "2025",
+    credential: "LOG-2025",
+    link: "#"
+  },
+  {
+    id: 102,
+    name: "Gestión Estratégica: OKRs para Managers",
+    issuer: "Platzi / LinkedIn",
+    date: "2025",
+    credential: "OKR-2025",
+    link: "#"
+  },
+  {
+    id: 103,
+    name: "Fundamentos de Programación y Bases de Datos",
+    issuer: "Múltiples Plataformas",
+    date: "2024",
+    credential: "DEV-DB-2024",
+    link: "#"
+  },
+  {
     id: 1,
     name: "Prevencion de Riesgos de Trabajos en Caliente y Soldadura",
     issuer: "MinisteriodeTrabajo",

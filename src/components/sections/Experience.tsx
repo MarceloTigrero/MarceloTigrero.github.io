@@ -3,6 +3,20 @@ import { ChevronDown, ChevronUp } from 'lucide-react';
 
 const allExperiences = [
   {
+    id: 0,
+    role: "Líder de I+D y Desarrollo de Producto",
+    company: "Confidencial (Sector Acuícola / Industrial)",
+    location: "Guayaquil, Guayas, ECU",
+    period: "Ene. 2024 - Presente",
+    description: "Gestión global del ciclo de desarrollo de producto: desde prototipado hasta manufactura.",
+    achievements: [
+      "Prototipado rápido y validación de Hardware (MVPs)",
+      "Reducción de Time-to-Market de soluciones acuícolas",
+      "Pruebas de campo y trazabilidad técnica",
+      "Resolución ágil de cuellos de botella en hardware y software"
+    ]
+  },
+  {
     id: 1,
     role: "Asistente comercial",
     company: "Molinaro CIA. LTDA",
@@ -32,16 +46,16 @@ const allExperiences = [
   },
   {
     id: 3,
-    role: "Desarrollador full stack",
-    company: "Escuela Superior Politecnica del Litoral",
+    role: "Ingeniero de Software Senior / Full Stack",
+    company: "ZEDE del Litoral (Proyecto SIEGO)",
     location: "Guayaquil, Guayas, ECU",
     period: "Oct - Dic, 2023",
-    description: "Desarrollo e implementación de sistemas fullstack con tecnologías modernas.",
+    description: "Liderazgo en arquitectura front-end y prevención de deuda técnica en entornos de alta presión.",
     achievements: [
-      "Implementación de backend con Net Core 7 y IBM-DB2",
-      "Desarrollo frontend con ReactJS y Flutter",
-      "Colaboración efectiva en equipos multidisciplinarios",
-      "Entrega exitosa de proyectos en tiempo establecido"
+      "Lideré frentes entregando arquitecturas front-end modulares y escalables",
+      "Gestión temprana y mitigación de vulnerabilidades o deuda técnica",
+      "Asesoría técnica y documentación para nuevos desarrolladores",
+      "Reconocido por la Dirección de Transformación Digital por criterio y orden"
     ]
   },
   {
