@@ -1,6 +1,9 @@
-import { ChevronDown, Download, Github, Linkedin } from "lucide-react";
+import { ChevronDown, Download, Linkedin } from "lucide-react";
+import { useTranslation } from "react-i18next";
 
 const Hero = () => {
+  const { t } = useTranslation();
+
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);
     element?.scrollIntoView({ behavior: "smooth" });
@@ -9,38 +12,30 @@ const Hero = () => {
   return (
     <section className="min-h-screen relative flex flex-col justify-center items-center px-4">
       <div className="max-w-4xl mx-auto text-center">
-        <h2 className="text-3xl md:text-5xl font-bold mb-4">
-          
-        </h2>
         <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">
-        MARCELO TIGRERO 
+          MARCELO TIGRERO 
         </h1>
         <h1 className="text-3xl md:text-5xl font-bold mb-4 bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-emerald-400">
           <span className="text-2xl md:text-4xl">
-            Ingeniero Mecatrónico | Full Stack Developer | Maestría en Energías
-            Renovables
+            {t('hero.title')} | {t('hero.subtitle')}
           </span>
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 mb-8">
-          Transformando el Futuro: Creando soluciones innovadoras donde la
-          tecnología y la sostenibilidad se encuentran
+          {t('hero.description')}
         </p>
         <p className="text-lg text-gray-400 max-w-2xl mx-auto mb-10 leading-relaxed">
-          Conecto la ingeniería de hardware con soluciones de software escalables. 
-          Como Líder de I+D y Producto, transformo necesidades industriales complejas en tecnología rentable. 
-          Mi experiencia abarca desde el <span className="font-bold text-blue-400">prototipado rápido y diseño de PCBs</span>, 
-          hasta <span className="font-bold text-emerald-400">Sistemas Embebidos (IoT)</span>, 
-          combinando una visión Full Stack para gestionar todo el ecosistema: <span className="text-white">desde el circuito hasta la nube.</span>
+          {t('hero.body_start')} <br/><br/>
+          {t('hero.body_mid')} <span className="font-bold text-blue-400">{t('hero.highlight_1')}</span> {t('hero.body_mid_2')} <span className="font-bold text-emerald-400">{t('hero.highlight_2')}</span>{t('hero.body_end')}
         </p>
 
         <div className="flex flex-wrap justify-center gap-4 relative z-10">
           <a
-            href="/Tigrero_MARCELO_esp.pdf"
-            download="Tigrero_MARCELO_CV.pdf"
+            href={t('contact.cv_link')}
+            download={t('contact.cv_file')}
             className="flex items-center gap-2 bg-gradient-to-r from-blue-500 to-emerald-500 hover:from-blue-600 hover:to-emerald-600 text-white px-8 py-3 rounded-full font-semibold transition-all duration-300 shadow-[0_0_20px_rgba(59,130,246,0.5)] hover:shadow-[0_0_30px_rgba(59,130,246,0.8)] hover:-translate-y-1"
           >
             <Download size={20} />
-            Descargar CV PDF
+            {t('hero.download_cv')}
           </a>
           <a
             href="https://www.linkedin.com/in/marcelo-tigrero/"
@@ -49,10 +44,9 @@ const Hero = () => {
             className="flex items-center gap-2 bg-gray-800 hover:bg-gray-700 border border-gray-700 hover:border-gray-600 text-white px-6 py-3 rounded-full font-semibold transition-all duration-300 shadow-lg hover:shadow-xl hover:-translate-y-1"
           >
             <Linkedin size={20} className="text-blue-400" />
-            LinkedIn
+            {t('hero.linkedin')}
           </a>
         </div>
-
       </div>
 
       <div 

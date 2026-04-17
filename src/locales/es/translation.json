@@ -1,0 +1,341 @@
+{
+  "nav": {
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "certifications": "Certificaciones",
+    "education": "Educación",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Líder de I+D y Producto Tecnológico",
+    "subtitle": "Gestión de Hardware IoT | Arquitecturas Full Stack | Sustentabilidad",
+    "description": "Dirijo el ciclo de vida de productos tecnológicos, transformando necesidades industriales en soluciones rentables, eficientes y sostenibles.",
+    "body_start": "Conecto la visión estratégica de negocio con la ejecución ágil de hardware y software.",
+    "body_mid": "Como Líder de I+D, orquesto el desarrollo en cada etapa. Mi enfoque maximiza el Retorno de Inversión (ROI) y reduce el Time-to-Market de la innovación. Domino desde el",
+    "highlight_1": "prototipado rápido (MVPs)",
+    "body_mid_2": "y",
+    "highlight_2": "Sistemas Embebidos (IoT)",
+    "body_end": ", hasta la construcción de las arquitecturas Full Stack que lo soportan todo: desde el circuito validado hasta el despliegue en la nube.",
+    "download_cv": "Descargar CV PDF",
+    "linkedin": "LinkedIn"
+  },
+  "experience": {
+    "title": "Experiencia Profesional",
+    "show_more": "Ver más",
+    "show_less": "Ver menos",
+    "items": [
+      {
+        "id": 0,
+        "role": "Electronic Mechatronic Engineer",
+        "company": "Jetfeeder",
+        "location": "Guayaquil, Guayas, ECU",
+        "period": "Jul 2025 - Presente",
+        "description": "Liderazgo en innovación de I+D (End-to-End), conceptualizando requerimientos operativos del sector acuícola/industrial en productos de alto rendimiento.",
+        "achievements": [
+          "Aceleración de pruebas MVP con impresión 3D ágil y validación electrónica.",
+          "Diseño de arquitecturas IoT robustas mediante microcontroladores (ESP32) para telemetría Modbus RTU/RS485 en ambientes hostiles.",
+          "Dirección de ecosistema completo: desde el dispositivo de red local, hasta aplicaciones móviles enfocadas en operaciones offline.",
+          "Reducción de paradas de planta integrando algoritmos de monitoreo energético no invasivo."
+        ]
+      },
+      {
+        "id": 1,
+        "role": "Profesor No Titular",
+        "company": "Tecnológico Universitario Almirante Illingworth",
+        "location": "Guayaquil, Guayas, ECU",
+        "period": "Nov 2024 - Abr 2025",
+        "description": "Mentoría en metodologías de Ingeniería, promoviendo conceptos sólidos de sistemas embebidos (IoT) en futuras generaciones profesionales.",
+        "achievements": [
+          "Diseño y dictado de Microcontroladores, Arquitectura C/C++ y bases de Electrónica Digital.",
+          "Supervisión de proyectos orientados a automatización de Hardware real y prototipado.",
+          "Orientación de habilidades blandas y de diseño de arquitecturas eficientes."
+        ]
+      },
+      {
+        "id": 2,
+        "role": "Full Stack Engineer",
+        "company": "ZEDE del Litoral",
+        "location": "Guayaquil, Guayas, ECU",
+        "period": "Dic 2024 - Jun 2025",
+        "description": "Diseño e implementación de sistemas operativos en la Zona Especial de Desarrollo Económico con una arquitectura altamente escalable.",
+        "achievements": [
+          "Construcción modular de aplicaciones Cloud utilizando TypeScript, Node.js y Next.js.",
+          "Automatización en flujos aduaneros regulados, aumentando drásticamente la trazabilidad en inventarios y control de permisos.",
+          "Mantenimiento continuo con Docker para despliegues inmutables.",
+          "Implementación en ciclo CI/CD para optimización técnica en entornos productivos de alta exigencia."
+        ]
+      },
+      {
+        "id": 3,
+        "role": "Asistente Comercial",
+        "company": "Molinaro Ltda.",
+        "location": "Guayas, ECU",
+        "period": "Jun 2024 - Ago 2024",
+        "description": "Gestión temprana de relacionamiento al cliente técnico para proyectos industriales.",
+        "achievements": [
+          "Control de ciclo pre y post venta, enfatizando la optimización y el flujo de la cadena logística operativa."
+        ]
+      },
+      {
+        "id": 4,
+        "role": "Sistemas Embebidos y Soporte",
+        "company": "Infortechcore / ESPOL",
+        "location": "Guayaquil, Guayas, ECU",
+        "period": "Feb 2022 - Feb 2023",
+        "description": "Inicio de carrera con roles mixtos en desarrollo de embebidos (Node.js, C/C++) y soporte académico para aumento de efectividad y eficiencia técnica.",
+        "achievements": [
+          "Implementación de pasarelas de pago y soporte a estudiantes de ingeniería con material didáctico eficiente."
+        ]
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Certificaciones",
+    "credential": "Credencial",
+    "show_more": "Ver más",
+    "show_less": "Ver menos",
+    "items": [
+      {
+        "id": 101,
+        "name": "Gestión Aduanera y Operaciones Logísticas",
+        "issuer": "Educación Continua ESPOL / Capacitación 2025",
+        "date": "2025",
+        "credential": "LOG-2025",
+        "link": "#"
+      },
+      {
+        "id": 102,
+        "name": "Gestión Estratégica: OKRs para Managers",
+        "issuer": "Platzi / LinkedIn",
+        "date": "2025",
+        "credential": "OKR-2025",
+        "link": "#"
+      },
+      {
+        "id": 103,
+        "name": "Fundamentos de Programación y Bases de Datos",
+        "issuer": "Múltiples Plataformas",
+        "date": "2024",
+        "credential": "DEV-DB-2024",
+        "link": "#"
+      },
+      {
+        "id": 1,
+        "name": "Prevención de Riesgos de Trabajos en Caliente y Soldadura",
+        "issuer": "Ministerio de Trabajo",
+        "date": "09/03/24",
+        "credential": "PRTCS-2024",
+        "link": "/documents/certificados/MinisteriodeTrabajo_PrevenciondeRiesgosdeTrabajosenCalienteySoldadura_09_03_24.pdf"
+      },
+      {
+        "id": 2,
+        "name": "Prevención en Trabajo de Alturas",
+        "issuer": "Ministerio de Trabajo", 
+        "date": "09/03/24",
+        "credential": "PTA-2024",
+        "link": "/documents/certificados/MinisteriodeTrabajo_PrevencionenTrabajodeAlturas_09_03_24.pdf"
+      },
+      {
+        "id": 3,
+        "name": "Trabajo en Espacios Confinados",
+        "issuer": "Ministerio de Trabajo",
+        "date": "09/03/24",
+        "credential": "TEC-2024",
+        "link": "/documents/certificados/MinisteriodeTrabajo_TrabajoenEspaciosConfinados_09_03_24.pdf"
+      },
+      {
+        "id": 4,
+        "name": "Bloodborne Pathogens Training",
+        "issuer": "RedCross",
+        "date": "02/29/24",
+        "credential": "BPT-2024",
+        "link": "/documents/certificados/RedCross_bloodbornepathogenstraining_2_29_24.pdf"
+      },
+      {
+        "id": 5,
+        "name": "Lifeguard",
+        "issuer": "RedCross",
+        "date": "02/29/24", 
+        "credential": "LG-2024",
+        "link": "/documents/certificados/RedCross_lifeguardeep_2_29_24.pdf"
+      },
+      {
+        "id": 6,
+        "name": "Techstars Startup Weekend Guayaquil 2024",
+        "issuer": "i3lab",
+        "date": "09/01/24",
+        "credential": "TSWG-2024",
+        "link": "/documents/certificados/i3lab_TechstarsStartupWeekendGuayaquil2024_09_01_24.pdf"
+      },
+      {
+        "id": 7,
+        "name": "Prevención de Riesgo Laboral",
+        "issuer": "Ministerio de Trabajo",
+        "date": "08/06/24",
+        "credential": "PRL-2024",
+        "link": "/documents/certificados/MinisteriodeTrabajo_PrevenciondeRiesgoLaboral_08_06_24.pdf"
+      },
+      {
+        "id": 8,
+        "name": "Primeros Auxilios",
+        "issuer": "Cenforpro",
+        "date": "08/06/24",
+        "credential": "PA-2024",
+        "link": "/documents/certificados/Cenforpro_PrimerosAuxilios_08_06_24.pdf"
+      },
+      {
+        "id": 9,
+        "name": "Prevención de Riesgos Seguridad e Higiene",
+        "issuer": "Cenforpro",
+        "date": "08/06/24",
+        "credential": "PRSO-2024",
+        "link": "/documents/certificados/Cenforpro_PrevenciondeRiesgosSeguridadIndustrialySaludOcupacionalenelSectorIndustrialylaConstruccion_08_06_24.pdf"
+      },
+      {
+        "id": 10,
+        "name": "Hackathon Safe & Sound Cities",
+        "issuer": "Safe&SoundCitiesCuenca",
+        "date": "10/14/23",
+        "credential": "HACK-2023",
+        "link": "/documents/certificados/Safe&SoundCitiesCuenca_Hackathon_10_14_23.pdf"
+      },
+      {
+        "id": 11,
+        "name": "ISO/IEC 27001 Internal Auditor",
+        "issuer": "Credly",
+        "date": "07/28/22",
+        "credential": "ISO27001-2022",
+        "link": "https://www.credly.com/badges/a6e13559-5070-4f50-85eb-f7a8e19f4860?source=linked_in_profile"
+      },
+      {
+        "id": 12,
+        "name": "Elements of AI",
+        "issuer": "University of Helsinki",
+        "date": "04/16/20",
+        "credential": "EOA-2020",
+        "link": "/documents/certificados/UniversityofHelsinki_Elementsofai_04_16_20.png"
+      },
+      {
+        "id": 13,
+        "name": "Python Core",
+        "issuer": "Solo Learn",
+        "date": "03/09/20",
+        "credential": "PC-2020",
+        "link": "/documents/certificados/SoloLearn_PythonCore_03_09_20.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Java Foundation",
+        "issuer": "ORACLE",
+        "date": "01/24/20",
+        "credential": "JF-2020",
+        "link": "/documents/certificados/ORACLE_JavaFundation_01_24_20.pdf"
+      },
+      {
+        "id": 15,
+        "name": "Java",
+        "issuer": "Solo Learn",
+        "date": "12/10/19",
+        "credential": "JAVA-2019",
+        "link": "/documents/certificados/SoloLearn_Java_12_10_19.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Aprendiendo a Aprender",
+        "issuer": "Coursera",
+        "date": "07/16/20",
+        "credential": "L2L-2020",
+        "link": "/documents/certificados/Coursera_AprendiendoaAprender_07_16_20.jpeg"
+      },
+      {
+        "id": 17,
+        "name": "English Program",
+        "issuer": "MultiBilingue",
+        "date": "11/01/17",
+        "credential": "EP-2017",
+        "link": "/documents/certificados/MultiBilingue_EnglishProgram_11_01_17.pdf"
+      },
+      {
+        "id": 18,
+        "name": "Capacitación Técnica Automotriz",
+        "issuer": "UICSA",
+        "date": "12/10/17",
+        "credential": "CTA-2017",
+        "link": "/documents/certificados/UICSA_CapacitacionTecnicaAutomotriz_12_10_17.pdf"
+      }
+    ]
+  },
+  "education": {
+    "title": "Educación",
+    "items": [
+      {
+        "id": 1,
+        "degree": "Ingeniería Mecatrónica",
+        "institution": "Escuela Superior Politécnica del Litoral",
+        "period": "2018 - 2023",
+        "description": "Ingeniero con conocimientos avanzados en sensores, actuadores y sistemas embebidos para aplicaciones industriales. Experiencia en el diseño e implementación de soluciones automatizadas que optimizan la eficiencia y productividad. Formación acreditada por EUR-ACE y Senescyt.",
+        "link": "https://www.fimcp.espol.edu.ec/es/grado/mecatronica"
+      },
+      {
+        "id": 2,
+        "degree": "Maestría en Energías Renovables",
+        "institution": "Tech Global University Techtitute",
+        "period": "2024 - 2026",
+        "description": "Analizar, seleccionar tecnologías y fabricantes para sistemas de energías renovables, optimizando costos y aplicaciones. Gestionar las fases necesarias para la viabilidad e implementación de proyectos. Formación acreditada con RVOE y Apostille de la Haya.",
+        "link": "https://www.techtitute.com/ec/escuela-de-negocios/maestria/maestria-energias-renovables"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos Destacados",
+    "search": "Buscar proyectos...",
+    "code": "Código",
+    "demo": "Demo",
+    "items": [
+      {
+        "id": 1,
+        "title": "Robot para diagnóstico de tuberías",
+        "description": "Diseño de un robot autónomo para inspección y diagnóstico de tuberías de agua potable en Santa Elena. El sistema integra sensores acústicos, mapeo y localización para detectar fugas y generar informes detallados.",
+        "tags": ["Robótica", "Sensores", "Automatización", "Diseño 3D", "Análisis de Datos"],
+        "image": "https://idear.espol.edu.ec/sites/default/files/posters/edicion_x/Portada_RT.png",
+        "githubUrl": "https://github.com/MarceloTigrero/RobotTuberias"
+      },
+      {
+        "id": 2,
+        "title": "Sistema de Recolección de Datos Plantares",
+        "description": "Programa especializado en la recolección y segmentación de datos para machine learning, enfocado en el análisis de movimientos del pie. Incluye previsualización de imágenes monocromáticas y captura de señales musculares.",
+        "tags": ["Machine Learning", "Procesamiento de Señales", "Python", "Análisis de Datos"],
+        "image": "https://raw.githubusercontent.com/MarceloTigrero/Portafolio/refs/heads/gh-pages/documents/projectspng/DatosPlantares.png",
+        "githubUrl": "https://github.com/MarceloTigrero/DatosPlantares"
+      },
+      {
+        "id": 3,
+        "title": "Servicio de Transcripción",
+        "description": "Servicio backend en Python utilizando Docker que convierte audio a texto. Implementa una arquitectura limpia con servicios de transcripción, conversión de formatos y manejo de archivos.",
+        "tags": ["Python", "Docker", "Flask", "OpenAI-Whisper", "API REST", "Backend"],
+        "image": "https://www.protranslate.net/blog/wp-content/uploads/2020/01/blog-1140x600-1.png",
+        "githubUrl": "https://github.com/MarceloTigrero/Transcribe_Service_Open"
+      },
+      {
+        "id": 4,
+        "title": "To-Do List PWA",
+        "description": "Aplicación web progresiva (PWA) para gestión de tareas, permitiendo enlistar y marcar actividades completadas.",
+        "tags": ["HTML", "CSS", "JavaScript", "PWA", "Frontend"],
+        "image": "https://raw.githubusercontent.com/MarceloTigrero/To-Do-List/refs/heads/main/todo-list-mobile.png",
+        "githubUrl": "https://github.com/MarceloTigrero/To-Do-List",
+        "liveUrl": "https://marcelotigrero.github.io/To-Do-List/"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "download_cv": "Descargar CV",
+    "cv_link": "/Tigrero_MARCELO_esp.pdf",
+    "cv_file": "Tigrero_MARCELO_CV_ES.pdf",
+    "subtitle": "¿Interesado en trabajar juntos?",
+    "description": "Estoy siempre abierto a nuevas oportunidades y colaboraciones. No dudes en contactarme para discutir posibles proyectos.",
+    "email_btn": "Enviar Correo",
+    "whatsapp_btn": "Escribir por WhatsApp",
+    "whatsapp_link": "https://api.whatsapp.com/send/?phone=593962713880&text=Hola+Marcelo,+vi+tu+web+y+me+encant%C3%B3+tu+trabajo.+Quer%C3%ADa+contactarte+porque+estoy+buscando+ayuda+para%3A+&type=phone_number&app_absent=0"
+  }
+}

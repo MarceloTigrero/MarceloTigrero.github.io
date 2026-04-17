@@ -1,0 +1,341 @@
+{
+  "nav": {
+    "experience": "Experience",
+    "projects": "Projects",
+    "certifications": "Certifications",
+    "education": "Education",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "R&D Leader and Tech Product Manager",
+    "subtitle": "IoT Hardware | Full Stack Architectures | Sustainability",
+    "description": "Orchestrating the technology product lifecycle, transforming industrial pains into cost-effective, scalable, and sustainable solutions.",
+    "body_start": "I bridge strategic business vision with agile execution in hardware and software.",
+    "body_mid": "As an R&D Leader, my focus is maximizing ROI and minimizing Time-to-Market in innovation. My expertise ranges from",
+    "highlight_1": "fast prototyping (MVPs)",
+    "body_mid_2": "and",
+    "highlight_2": "Embedded Systems (IoT)",
+    "body_end": ", to the fully-fledged scalable Full Stack architectures that tie everything together: from validated circuits to cloud deployments.",
+    "download_cv": "Download CV PDF",
+    "linkedin": "LinkedIn"
+  },
+  "experience": {
+    "title": "Professional Experience",
+    "show_more": "Show more",
+    "show_less": "Show less",
+    "items": [
+      {
+        "id": 0,
+        "role": "Electronic Mechatronic Engineer",
+        "company": "Jetfeeder",
+        "location": "Guayaquil, Guayas, ECU",
+        "period": "Jul 2025 - Present",
+        "description": "Leadership in R&D innovation (End-to-End), translating aquaculture/industrial operational requirements into high-performance products.",
+        "achievements": [
+          "Accelerated MVP validation using agile 3D printing and torque analysis.",
+          "Engineered robust IoT architectures employing microcontrollers (ESP32) for Modbus RTU/RS485 telemetry in hostile environments.",
+          "Spearheaded full digital ecosystems: from edge networking devices to offline-first operational mobile applications.",
+          "Substantially reduced critical plant downtime integrating non-invasive energy monitoring algorithms."
+        ]
+      },
+      {
+        "id": 1,
+        "role": "Adjunct Professor",
+        "company": "Tecnológico Universitario Almirante Illingworth",
+        "location": "Guayaquil, Guayas, ECU",
+        "period": "Nov 2024 - Apr 2025",
+        "description": "Academic mentorship and teaching core methodologies in embedded systems aiming to train the next professional generation.",
+        "achievements": [
+          "Curriculum design for Microcontrollers, C/C++ Architecture, and fundamental Digital Electronics.",
+          "Mentored applied hardware projects focusing on tangible automation and IoT scenarios.",
+          "Tutored technical and soft skills targeting the development of efficient programming structures."
+        ]
+      },
+      {
+        "id": 2,
+        "role": "Full Stack Engineer",
+        "company": "ZEDE del Litoral",
+        "location": "Guayaquil, Guayas, ECU",
+        "period": "Dec 2024 - Jun 2025",
+        "description": "Architecture mapping and development for internal systems within Ecuador's Special Economic Development Zone.",
+        "achievements": [
+          "Led front-end modules providing highly scalable and bug-resistant tools with Next.js, Node.js and TypeScript.",
+          "Streamlined inventory flow processes cutting red-tape processing times in local custom clearance operations.",
+          "Implemented CI/CD pipelines alongside Docker structures delivering stable and immutable releases.",
+          "Prevented technical debt buildup under tight deadlines."
+        ]
+      },
+      {
+        "id": 3,
+        "role": "Commercial Assistant",
+        "company": "Molinaro Ltda.",
+        "location": "Guayas, ECU",
+        "period": "Jun 2024 - Aug 2024",
+        "description": "Early-stage commercial and technical relationship coordination for industrial scale projects.",
+        "achievements": [
+          "Pre and post sale process oversight maximizing operational logistical processes and specialized technical visits."
+        ]
+      },
+      {
+        "id": 4,
+        "role": "Embedded Systems & Academic Support",
+        "company": "Infortechcore / ESPOL",
+        "location": "Guayaquil, Guayas, ECU",
+        "period": "Feb 2022 - Feb 2023",
+        "description": "Early career mix roles bridging technical product integrations (C++, Node.js) with academic mentorship and support.",
+        "achievements": [
+          "Developed embedded system interactions spanning to e-commerce protocols increasing internal tech reliability."
+        ]
+      }
+    ]
+  },
+  "certifications": {
+    "title": "Certifications",
+    "credential": "Credential",
+    "show_more": "Show more",
+    "show_less": "Show less",
+    "items": [
+      {
+        "id": 101,
+        "name": "Customs Management and Logistics Operations",
+        "issuer": "Educación Continua ESPOL / Capacitación 2025",
+        "date": "2025",
+        "credential": "LOG-2025",
+        "link": "#"
+      },
+      {
+        "id": 102,
+        "name": "Strategic Management: OKRs for Managers",
+        "issuer": "Platzi / LinkedIn",
+        "date": "2025",
+        "credential": "OKR-2025",
+        "link": "#"
+      },
+      {
+        "id": 103,
+        "name": "Programming Fundamentals and Databases",
+        "issuer": "Multiple Platforms",
+        "date": "2024",
+        "credential": "DEV-DB-2024",
+        "link": "#"
+      },
+      {
+        "id": 1,
+        "name": "Hot Work and Welding Risks Prevention",
+        "issuer": "Ministerio de Trabajo",
+        "date": "09/03/24",
+        "credential": "PRTCS-2024",
+        "link": "/documents/certificados/MinisteriodeTrabajo_PrevenciondeRiesgosdeTrabajosenCalienteySoldadura_09_03_24.pdf"
+      },
+      {
+        "id": 2,
+        "name": "Height Work Prevention",
+        "issuer": "Ministerio de Trabajo", 
+        "date": "09/03/24",
+        "credential": "PTA-2024",
+        "link": "/documents/certificados/MinisteriodeTrabajo_PrevencionenTrabajodeAlturas_09_03_24.pdf"
+      },
+      {
+        "id": 3,
+        "name": "Confined Spaces Work",
+        "issuer": "Ministerio de Trabajo",
+        "date": "09/03/24",
+        "credential": "TEC-2024",
+        "link": "/documents/certificados/MinisteriodeTrabajo_TrabajoenEspaciosConfinados_09_03_24.pdf"
+      },
+      {
+        "id": 4,
+        "name": "Bloodborne Pathogens Training",
+        "issuer": "RedCross",
+        "date": "02/29/24",
+        "credential": "BPT-2024",
+        "link": "/documents/certificados/RedCross_bloodbornepathogenstraining_2_29_24.pdf"
+      },
+      {
+        "id": 5,
+        "name": "Lifeguard",
+        "issuer": "RedCross",
+        "date": "02/29/24", 
+        "credential": "LG-2024",
+        "link": "/documents/certificados/RedCross_lifeguardeep_2_29_24.pdf"
+      },
+      {
+        "id": 6,
+        "name": "Techstars Startup Weekend Guayaquil 2024",
+        "issuer": "i3lab",
+        "date": "09/01/24",
+        "credential": "TSWG-2024",
+        "link": "/documents/certificados/i3lab_TechstarsStartupWeekendGuayaquil2024_09_01_24.pdf"
+      },
+      {
+        "id": 7,
+        "name": "Occupational Risk Prevention",
+        "issuer": "Ministerio de Trabajo",
+        "date": "08/06/24",
+        "credential": "PRL-2024",
+        "link": "/documents/certificados/MinisteriodeTrabajo_PrevenciondeRiesgoLaboral_08_06_24.pdf"
+      },
+      {
+        "id": 8,
+        "name": "First Aid",
+        "issuer": "Cenforpro",
+        "date": "08/06/24",
+        "credential": "PA-2024",
+        "link": "/documents/certificados/Cenforpro_PrimerosAuxilios_08_06_24.pdf"
+      },
+      {
+        "id": 9,
+        "name": "Industrial Safety and Occupational Health",
+        "issuer": "Cenforpro",
+        "date": "08/06/24",
+        "credential": "PRSO-2024",
+        "link": "/documents/certificados/Cenforpro_PrevenciondeRiesgosSeguridadIndustrialySaludOcupacionalenelSectorIndustrialylaConstruccion_08_06_24.pdf"
+      },
+      {
+        "id": 10,
+        "name": "Hackathon Safe & Sound Cities",
+        "issuer": "Safe&SoundCitiesCuenca",
+        "date": "10/14/23",
+        "credential": "HACK-2023",
+        "link": "/documents/certificados/Safe&SoundCitiesCuenca_Hackathon_10_14_23.pdf"
+      },
+      {
+        "id": 11,
+        "name": "ISO/IEC 27001 Internal Auditor",
+        "issuer": "Credly",
+        "date": "07/28/22",
+        "credential": "ISO27001-2022",
+        "link": "https://www.credly.com/badges/a6e13559-5070-4f50-85eb-f7a8e19f4860?source=linked_in_profile"
+      },
+      {
+        "id": 12,
+        "name": "Elements of AI",
+        "issuer": "University of Helsinki",
+        "date": "04/16/20",
+        "credential": "EOA-2020",
+        "link": "/documents/certificados/UniversityofHelsinki_Elementsofai_04_16_20.png"
+      },
+      {
+        "id": 13,
+        "name": "Python Core",
+        "issuer": "Solo Learn",
+        "date": "03/09/20",
+        "credential": "PC-2020",
+        "link": "/documents/certificados/SoloLearn_PythonCore_03_09_20.jpg"
+      },
+      {
+        "id": 14,
+        "name": "Java Foundation",
+        "issuer": "ORACLE",
+        "date": "01/24/20",
+        "credential": "JF-2020",
+        "link": "/documents/certificados/ORACLE_JavaFundation_01_24_20.pdf"
+      },
+      {
+        "id": 15,
+        "name": "Java",
+        "issuer": "Solo Learn",
+        "date": "12/10/19",
+        "credential": "JAVA-2019",
+        "link": "/documents/certificados/SoloLearn_Java_12_10_19.jpg"
+      },
+      {
+        "id": 16,
+        "name": "Learning How to Learn",
+        "issuer": "Coursera",
+        "date": "07/16/20",
+        "credential": "L2L-2020",
+        "link": "/documents/certificados/Coursera_AprendiendoaAprender_07_16_20.jpeg"
+      },
+      {
+        "id": 17,
+        "name": "English Program",
+        "issuer": "MultiBilingue",
+        "date": "11/01/17",
+        "credential": "EP-2017",
+        "link": "/documents/certificados/MultiBilingue_EnglishProgram_11_01_17.pdf"
+      },
+      {
+        "id": 18,
+        "name": "Automotive Technical Training",
+        "issuer": "UICSA",
+        "date": "12/10/17",
+        "credential": "CTA-2017",
+        "link": "/documents/certificados/UICSA_CapacitacionTecnicaAutomotriz_12_10_17.pdf"
+      }
+    ]
+  },
+  "education": {
+    "title": "Education",
+    "items": [
+      {
+        "id": 1,
+        "degree": "Mechatronics Engineering",
+        "institution": "Escuela Superior Politécnica del Litoral",
+        "period": "2018 - 2023",
+        "description": "Engineer with advanced knowledge in sensors, actuators, and embedded systems for industrial applications. Experience designing and deploying automated solutions maximizing efficiency. Accredited by EUR-ACE and Senescyt.",
+        "link": "https://www.fimcp.espol.edu.ec/es/grado/mecatronica"
+      },
+      {
+        "id": 2,
+        "degree": "Master's Degree in Renewable Energies",
+        "institution": "Tech Global University Techtitute",
+        "period": "2024 - 2026",
+        "description": "Analyze and select tech/vendors for renewable energy systems to optimize cost constraints. Master phase management ensuring implementation feasibility. Degree accredited with RVOE and Hague Apostille.",
+        "link": "https://www.techtitute.com/ec/escuela-de-negocios/maestria/maestria-energias-renovables"
+      }
+    ]
+  },
+  "projects": {
+    "title": "Featured Projects",
+    "search": "Search projects...",
+    "code": "Code",
+    "demo": "Demo",
+    "items": [
+      {
+        "id": 1,
+        "title": "Pipeline Diagnostics Robot",
+        "description": "Design of an autonomous robot diagnosing potable water pipes in Santa Elena. The system uses acoustic sensors and custom mapping algorithms to pinpoint leaks and issue operational reports.",
+        "tags": ["Robotics", "Sensors", "Automation", "3D Design", "Data Analysis"],
+        "image": "https://idear.espol.edu.ec/sites/default/files/posters/edicion_x/Portada_RT.png",
+        "githubUrl": "https://github.com/MarceloTigrero/RobotTuberias"
+      },
+      {
+        "id": 2,
+        "title": "Plantar Data Collection System",
+        "description": "Specialized program segmenting foot movement data points to feed machine learning pipelines. Deploys real-time monochrome previews capturing raw muscular signals.",
+        "tags": ["Machine Learning", "Signal Processing", "Python", "Data Analysis"],
+        "image": "https://raw.githubusercontent.com/MarceloTigrero/Portafolio/refs/heads/gh-pages/documents/projectspng/DatosPlantares.png",
+        "githubUrl": "https://github.com/MarceloTigrero/DatosPlantares"
+      },
+      {
+        "id": 3,
+        "title": "Transcription Microservice",
+        "description": "Python backend wrapped in Docker instances translating audio to text. Features a clean architecture to separate text parsing services from the API gateway routing.",
+        "tags": ["Python", "Docker", "Flask", "OpenAI-Whisper", "RESTful API", "Backend"],
+        "image": "https://www.protranslate.net/blog/wp-content/uploads/2020/01/blog-1140x600-1.png",
+        "githubUrl": "https://github.com/MarceloTigrero/Transcribe_Service_Open"
+      },
+      {
+        "id": 4,
+        "title": "To-Do PWA Application",
+        "description": "Progressive Web Application matching task management routines and mobile accessibility features.",
+        "tags": ["HTML", "CSS", "JavaScript", "PWA", "Frontend"],
+        "image": "https://raw.githubusercontent.com/MarceloTigrero/To-Do-List/refs/heads/main/todo-list-mobile.png",
+        "githubUrl": "https://github.com/MarceloTigrero/To-Do-List",
+        "liveUrl": "https://marcelotigrero.github.io/To-Do-List/"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "download_cv": "Download CV",
+    "cv_link": "/Tigrero_MARCELO_en.pdf",
+    "cv_file": "Tigrero_MARCELO_CV_EN.pdf",
+    "subtitle": "Interested in working together?",
+    "description": "I'm always open to new opportunities and long-term tech collaborations. Don't hesitate to reach out to me.",
+    "email_btn": "Send an Email",
+    "whatsapp_btn": "Text me on WhatsApp",
+    "whatsapp_link": "https://api.whatsapp.com/send/?phone=593962713880&text=Hi+Marcelo,+I+checked+out+your+portfolio+and+I+loved+your+work.+I+am+contacting+you+because+we+need+help+with%3A+&type=phone_number&app_absent=0"
+  }
+}
