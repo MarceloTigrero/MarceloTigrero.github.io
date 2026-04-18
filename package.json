@@ -9,7 +9,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "build": "vite build",
-    "build:pdf": "pdflatex -output-directory=public \"d:/CV_Latex/Tigrero_MARCELO_esp.tex\"",
+    "build:pdf": "pdflatex -output-directory=public \"d:/CV_Latex/Tigrero_MARCELO_esp.tex\" && pdflatex -output-directory=public \"d:/CV_Latex/Tigrero_MARCELO_eng_us_global.tex\" && move public\\Tigrero_MARCELO_eng_us_global.pdf public\\Tigrero_MARCELO_en.pdf",
     "preview": "vite preview"
   },
   "dependencies": {
