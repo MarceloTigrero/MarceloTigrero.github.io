@@ -7,7 +7,8 @@ interface Project {
   title: string;
   description: string;
   tags: string[];
-  image: string;
+  image?: string;
+  video?: string;
   githubUrl?: string;
   liveUrl?: string;
 }
@@ -64,11 +65,21 @@ const Projects = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           {filteredProjects.map(project => (
             <div key={project.id} className="bg-gray-800 rounded-xl overflow-hidden hover:transform hover:scale-[1.02] transition-transform">
-              <img 
-                src={project.image} 
-                alt={project.title}
-                className="w-full h-48 object-cover"
-              />
+              {project.video ? (
+                <video 
+                  src={project.video}
+                  className="w-full h-48 object-cover cursor-pointer"
+                  controls
+                  muted
+                  playsInline
+                />
+              ) : project.image ? (
+                <img 
+                  src={project.image} 
+                  alt={project.title}
+                  className="w-full h-48 object-cover"
+                />
+              ) : null}
               <div className="p-6">
                 <h3 className="text-xl font-bold mb-2">{project.title}</h3>
                 <p className="text-gray-400 mb-4">{project.description}</p>

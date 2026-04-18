@@ -101,7 +101,7 @@
         "issuer": "Educación Continua ESPOL / Capacitación 2025",
         "date": "2025",
         "credential": "LOG-2025",
-        "link": "#"
+        "link": "/documents/certificados/EducacionContinuaESPOL_GestionAduaneraparaImportacionesyExpertaciones(Ecuapass)_07_05_2025.pdf"
       },
       {
         "id": 102,
@@ -324,6 +324,14 @@
         "image": "https://raw.githubusercontent.com/MarceloTigrero/To-Do-List/refs/heads/main/todo-list-mobile.png",
         "githubUrl": "https://github.com/MarceloTigrero/To-Do-List",
         "liveUrl": "https://marcelotigrero.github.io/To-Do-List/"
+      },
+      {
+        "id": 5,
+        "title": "Trampa de Grasa Biomec (1er Lugar Techstars)",
+        "description": "Lideré el desarrollo e ingeniería de producto de 'Biomec', un modelo validado que reduce costos operativos y tiempos de mantenimiento en el sector industrial/alimenticio obteniendo el 1er lugar en Techstars Startup Weekend.",
+        "tags": ["Desarrollo de Producto", "I+D", "MVP", "Ingeniería"],
+        "video": "/documents/projectspng/trampadegrasas.mp4",
+        "liveUrl": "/documents/projectspng/Grupo Biomec.pdf"
       }
     ]
   },
